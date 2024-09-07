@@ -1,0 +1,7 @@
+﻿  Lista.cpp
+  main.cpp
+C:\Users\jgame\OneDrive\Escritorio\UNA\Tutoria - Estructuras de Datos\Clases\Semana 2\ListaEnlazada\ListaEnlazada\main.cpp(20,13): warning C4566: el carácter representado por el nombre de carácter universal '\uFFFD' no se puede representar en la página de códigos actual (1252)
+  Nodo.cpp
+  Persona.cpp
+  Generando código...
+  ListaEnlazada.vcxproj -> C:\Users\jgame\OneDrive\Escritorio\UNA\Tutoria - Estructuras de Datos\Clases\Semana 2\ListaEnlazada\x64\Debug\ListaEnlazada.exe
