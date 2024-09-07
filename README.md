@@ -21,8 +21,12 @@ Este proyecto está orientado a estudiantes, desarrolladores y cualquier persona
 
 ¡Explora el código y comienza a mejorar tus habilidades en estructuras de datos!
 
+### Desarrollo y Ejecucion
+- Los codigos realizados en C++ estan creados en Visual Studio Community.
+
 ## IMPORTANTE
-Este repositorio estara en constante actualizacion, tanto para correciones como para agregar nuevos tpicos imporntatnes.
+- Este repositorio estara en constante actualizacion, tanto para correciones como para agregar nuevos tpicos imporntatnes.
+
 
 **Contribuciones:**  
 Las contribuciones son bienvenidas. Si deseas agregar o mejorar ejemplos, por favor abre un issue o realiza un pull request. Tambien eres libre de comunicarte conmigo por correo electronico o LinkedIn.
