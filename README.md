@@ -37,7 +37,7 @@ Este repositorio tiene como objetivo proporcionar una **guía completa** sobre l
 - **Memoria Dinámica vs. Estática**
 - **Punteros Inteligentes** (próximamente)
 
-## Casos de Uso y Ejemplos Prácticos
+## Casos de Uso y Ejemplos Prácticos (Próximamente)
 
 Cada estructura de datos se acompaña de:
 - **Explicaciones detalladas**.
