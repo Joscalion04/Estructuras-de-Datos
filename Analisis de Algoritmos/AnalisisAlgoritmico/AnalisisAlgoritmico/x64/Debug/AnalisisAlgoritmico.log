@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\jgame\OneDrive\Escritorio\UNA\Tutoria - Estructuras de Datos\Material de Apoyo\Codigos\Estructuras de Datos\AnalisisAlgoritmico\AnalisisAlgoritmico\main.cpp(18,25): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\jgame\OneDrive\Escritorio\UNA\Tutoria - Estructuras de Datos\Material de Apoyo\Codigos\Estructuras de Datos\AnalisisAlgoritmico\AnalisisAlgoritmico\main.cpp(33,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  AnalisisAlgoritmico.vcxproj -> C:\Users\jgame\OneDrive\Escritorio\UNA\Tutoria - Estructuras de Datos\Material de Apoyo\Codigos\Estructuras de Datos\AnalisisAlgoritmico\x64\Debug\AnalisisAlgoritmico.exe
