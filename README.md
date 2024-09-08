@@ -16,25 +16,28 @@ Este repositorio tiene como objetivo proporcionar una **guía completa** sobre l
 - **Representaciones de Grafos** (próximamente)
 
 ### 2. Algoritmos de Ordenamiento
+- **Bubble Sort**
+- **Selection Sort**
+- **Insertion Sort**
 - **Merge Sort**
 - **Quick Sort**
-- **Bubble Sort**
 - **Radix Sort** (próximamente)
 
 ### 3. Análisis de Algoritmos
 - **Complejidad Temporal y Espacial**
 - **Mejores, Peores y Promedios de Caso**
 - **Recurrencia de Algoritmos**
+- **Chronos C++** (próximamente)
 
 ### 4. Técnicas de Programación
 - **Programación Recursiva** (Recursión)
 - **Iteración**
-- **Divide y Vencerás**
+- **Divide y Vencerás** (próximamente)
 
 ### 5. Manejo de Memoria en C++
 - **Memory Management** en C++ (new/delete)
 - **Manejo de Punteros**
-- **Memoria Dinámica vs. Estática**
+- **Memoria Dinámica vs. Estática** (próximamente)
 - **Punteros Inteligentes** (próximamente)
 
 ## Casos de Uso y Ejemplos Prácticos (Próximamente)
