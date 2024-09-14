@@ -7,6 +7,7 @@ Este repositorio tiene como objetivo proporcionar una **guía completa** sobre l
 ## Contenidos del Repositorio
 
 ### 1. Estructuras de Datos Fundamentales
+- **Vectores Dinamicos**
 - **Listas Enlazadas Simples**
 - **Listas Enlazadas Dobles**
 - **Listas Enlazadas Dobles Circulares**
