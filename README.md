@@ -13,7 +13,9 @@ Este repositorio tiene como objetivo proporcionar una **guía completa** sobre l
 - **Listas Enlazadas Dobles Circulares**
 - **Pilas**
 - **Colas**
-- **Árboles Binarios** (próximamente)
+- **Árboles Binarios**
+     - AVL (próximamente)
+     - BST (próximamente)
 - **Representaciones de Grafos** (próximamente)
 
 ### 2. Algoritmos de Ordenamiento
