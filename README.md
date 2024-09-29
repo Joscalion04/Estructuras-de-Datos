@@ -10,6 +10,7 @@ Este repositorio tiene como objetivo proporcionar una **guía completa** sobre l
 - **Vectores Dinamicos**
 - **Listas Enlazadas Simples**
 - **Listas Enlazadas Dobles**
+- **Listas Enlazadas Simples Circulares**
 - **Listas Enlazadas Dobles Circulares**
 - **Pilas**
 - **Colas**
